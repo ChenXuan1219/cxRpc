@@ -1,0 +1,131 @@
+
+
+java:S1192Ç"cDefine a constant instead of duplicating this literal "descriptor for wrong service type." 4 times.(â‰ªûÿÿÿÿ
+g
+java:S1192½"PDefine a constant instead of duplicating this literal "Can't get here." 6 times.(’‘¬
+?
+java:S1604Ä"(Make this anonymous inner class a lambda(Ñ­ÄÊ
+u
+java:S1488õ"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+u
+java:S1488Â
+"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+u
+java:S1488ä"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒŸÆúıÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ°‡ıÿÿÿÿ
+J
+java:S1172	"/Remove this unused method parameter "registry".(•óÊõÿÿÿÿÿ
+k	java:S116‰"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ğ¸«úÿÿÿÿ
+e	java:S116¯"ORename this field "pwd_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş„¾î
+
+java:S4144Ù"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 704.(Ğ·†Ïıÿÿÿÿ
+C
+java:S1948‰"'Make "name_" transient or serializable.(¥Ğ¸«úÿÿÿÿ
+=
+java:S1948¯"&Make "pwd_" transient or serializable.(ş„¾î
+s
+java:S3077‰"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¥Ğ¸«úÿÿÿÿ
+n
+java:S3077¯"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ş„¾î
+]
+java:S1126Š"AReplace this if-then-else statement by a single return statement.(®Èäîÿÿÿÿÿ
+k	java:S116“"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øá™şúÿÿÿÿ
+j	java:S116ß"ORename this field "pwd_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÁº‘ıÿÿÿÿ
+?	java:S108˜")Either remove or fill this block of code.(º„ç½
+o
+java:S2975Ã"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185Ã"(Remove this method to simply inherit it.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185Ç"(Remove this method to simply inherit it.(ÑÍ“Ëûÿÿÿÿ
+D
+java:S1185Í"(Remove this method to simply inherit it.(Ã•Œƒüÿÿÿÿ
+D
+java:S1185Ò"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿ
+?
+java:S1185×"(Remove this method to simply inherit it.(§ß—¡
+?
+java:S1185İ"(Remove this method to simply inherit it.(¿¸Ú©
+k	java:S116ó"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ğ¸«úÿÿÿÿ
+e	java:S116™"ORename this field "pwd_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş„¾î
+j	java:S116¿"ORename this field "age_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à”Åšÿÿÿÿÿ
+e	java:S116Ê"ORename this field "sex_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïò¹‚
+g	java:S116İ"QRename this field "phone_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãñå
+{
+java:S4144Ú"dUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 1857.(†Ù
+C
+java:S1948ó"'Make "name_" transient or serializable.(¥Ğ¸«úÿÿÿÿ
+=
+java:S1948™"&Make "pwd_" transient or serializable.(ş„¾î
+?
+java:S1948İ"(Make "phone_" transient or serializable.(ãñå
+s
+java:S3077ó"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¥Ğ¸«úÿÿÿÿ
+n
+java:S3077™"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ş„¾î
+n
+java:S3077İ"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ãñå
+Q
+java:S1133®"5Do not forget to remove this deprecated code someday.(Ôùœ×ùÿÿÿÿ
+]
+java:S1126Ñ	"AReplace this if-then-else statement by a single return statement.(®Èäîÿÿÿÿÿ
+k	java:S116ó"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øá™şúÿÿÿÿ
+j	java:S116¿"ORename this field "pwd_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÁº‘ıÿÿÿÿ
+j	java:S116‹"ORename this field "age_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à”Åšÿÿÿÿÿ
+j	java:S116ª"ORename this field "sex_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µí‚Õüÿÿÿÿ
+l	java:S116à"QRename this field "phone_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„á»äşÿÿÿÿ
+?	java:S108å
+")Either remove or fill this block of code.(º„ç½
+o
+java:S2975™"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185™"(Remove this method to simply inherit it.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185"(Remove this method to simply inherit it.(ÑÍ“Ëûÿÿÿÿ
+D
+java:S1185£"(Remove this method to simply inherit it.(Ã•Œƒüÿÿÿÿ
+D
+java:S1185¨"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿ
+?
+java:S1185­"(Remove this method to simply inherit it.(§ß—¡
+?
+java:S1185³"(Remove this method to simply inherit it.(¿¸Ú©
+g	java:S116ë"QRename this field "errno_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜æÒÁ
+h	java:S116ú"SRename this field "errinfo_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËùìZ
+h	java:S116¨"RRename this field "result_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãõ€µ
+{
+java:S4144ë"dUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 2642.(”´Ç½
+@
+java:S1948ú"*Make "errinfo_" transient or serializable.(ËùìZ
+m
+java:S3077ú"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ËùìZ
+C
+java:S1125Ê"'Remove the unnecessary boolean literal.(æ§Ãæøÿÿÿÿ
+C
+java:S1125İ"'Remove the unnecessary boolean literal.(æ§Ãæøÿÿÿÿ
+]
+java:S1126ö"AReplace this if-then-else statement by a single return statement.(®Èäîÿÿÿÿÿ
+g	java:S116‡"QRename this field "errno_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜æÒÁ
+i	java:S116²"SRename this field "errinfo_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«èè»
+h	java:S116’"RRename this field "result_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãõ€µ
+?	java:S108‡")Either remove or fill this block of code.(º„ç½
+o
+java:S2975µ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185µ"(Remove this method to simply inherit it.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185¹"(Remove this method to simply inherit it.(ÑÍ“Ëûÿÿÿÿ
+D
+java:S1185¿"(Remove this method to simply inherit it.(Ã•Œƒüÿÿÿÿ
+D
+java:S1185Ä"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿ
+?
+java:S1185É"(Remove this method to simply inherit it.(§ß—¡
+?
+java:S1185Ï"(Remove this method to simply inherit it.(¿¸Ú©
+C
+java:S1125ç"'Remove the unnecessary boolean literal.(ËÚÆÚÿÿÿÿÿ
+a
+java:S1124ø"EReorder the modifiers to comply with the Java Language Specification.(˜ÏÆ˜ûÿÿÿÿ

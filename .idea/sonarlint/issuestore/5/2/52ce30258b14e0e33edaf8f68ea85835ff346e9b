@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒŸÆúıÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(”õ…Ÿúÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ù”Üçşÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(õ¿Í‡
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(Í¬Ì‹
+[
+java:S1128">Remove this unused import 'com.google.protobuf.RpcController'.(ÏÇ°ò8á™•¦0

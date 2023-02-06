@@ -1,0 +1,30 @@
+
+g	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïõ¹Š
+f	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯º¶D
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ƒþãÿÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+m	java:S116"SRename this field "ZkServer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŠØŠùÿÿÿÿ
+i	java:S116 "TRename this field "server_ip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ³ÆÎ
+p	java:S116!"VRename this field "server_port" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Èž©øÿÿÿÿ
+l
+java:S1845 "VRename field "server_ip" to prevent any misunderstanding/clash with field "SERVER_IP".(þ³ÆÎ
+u
+java:S1845!"ZRename field "server_port" to prevent any misunderstanding/clash with field "SERVER_PORT".(’Èž©øÿÿÿÿ
+A
+java:S5164"",Call "remove()" on "responseBufThreadLocal".(¸í‹.
+V	java:S1258"<This block of commented-out lines of code should be removed.(éÙ†¯ÿÿÿÿÿ
+<
+java:S1075C"&Remove this hard-coded path-delimiter.(ŠÐµé
+A
+java:S1075G"&Remove this hard-coded path-delimiter.(‰ŸèÍþÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ñïâùÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(¯êœøùÿÿÿÿ
+H
+java:S1602‘",Remove useless curly braces around statement(ÝéÉúÿÿÿÿ
+j
+java:S3008š"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å©—Ý
+d	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬çÄï
+d	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïõ¹Š
+d	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÃÈû
+c	java:S100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯º¶D

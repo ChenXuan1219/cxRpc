@@ -1,0 +1,16 @@
+
+k	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨Æÿÿÿÿÿ
+k	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨Æÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒŸÆúıÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Íı
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë£Õ¯ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºôÂÃÿÿÿÿÿ
+E
+java:S1172%"*Remove this unused method parameter "age".(×÷®Òıÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Êíâşÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Ë£Õ¯ùÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ºôÂÃÿÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ß”³†
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¹”ÿ¯

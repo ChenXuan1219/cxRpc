@@ -1,0 +1,25 @@
+//当前文件是protobuf的配置文件，最终会通过protoc生成相应语言的代码文件
+syntax = "proto3";//定义proto版本
+
+package com.pinkMan; //定义包名称 对应java代码文件的包路径
+
+option java_outer_classname = "TestProto"; //输出java文件的名称
+
+//定义数据类型
+//message定义的名称就是对应java代码中的一个雷
+message LoginRequest {
+  string name = 1;
+  string pwd = 2;
+}
+
+message RegLoginRequest {
+  string name = 1;
+  string pwd = 2;
+  int32 age = 3;
+  enum SEX {
+    MAN = 0;
+    WOMAN = 1;
+  }
+  SEX sex = 4;
+  string phone = 5;
+}
