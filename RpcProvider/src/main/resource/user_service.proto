@@ -27,7 +27,7 @@ message Response {
   bool result = 3; //rpc调用返回值
 }
 
-//定义RPC服务接口累和服务方法
+//定义RPC服务接口类和服务方法
 service UserServiceRpc {
   rpc login(LoginRequest) returns (Response);
   rpc reg(RegRequest) returns (Response);
